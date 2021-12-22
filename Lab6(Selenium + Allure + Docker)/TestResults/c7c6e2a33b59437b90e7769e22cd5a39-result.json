@@ -1,0 +1,85 @@
+{
+  "uuid": "dc10d374-2ca5-40e0-807d-c4401852e7bb-tr-0-1003",
+  "historyId": "QA_testing_project.Testcases.testcase3",
+  "fullName": "QA_testing_project.Testcases.testcase3",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-5A86MOK"
+    },
+    {
+      "name": "package",
+      "value": "QA_testing_project"
+    },
+    {
+      "name": "testMethod",
+      "value": "testcase3"
+    },
+    {
+      "name": "testClass",
+      "value": "Testcases"
+    },
+    {
+      "name": "suite",
+      "value": "Pet Type"
+    }
+  ],
+  "links": [],
+  "name": "testcase3",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "testcase3"
+  },
+  "stage": "finished",
+  "description": "This test checks that Pet Type could be deleted succesfully. \n",
+  "steps": [
+    {
+      "name": "testcase3",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "Deletes first record at page PetType",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1640161140286,
+          "stop": 1640161144682
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "5a94a5c5b9b743049285d99d4eed467b-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1640161129136,
+      "stop": 1640161144790
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1640161129136,
+  "stop": 1640161144790
+}

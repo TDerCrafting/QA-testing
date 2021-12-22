@@ -1,0 +1,205 @@
+{
+  "uuid": "56b85662-faed-4b33-93af-1c3d04f76994-tr-0-1001",
+  "historyId": "QA_testing_project.Testcases.testcase1",
+  "fullName": "QA_testing_project.Testcases.testcase1",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-5A86MOK"
+    },
+    {
+      "name": "package",
+      "value": "QA_testing_project"
+    },
+    {
+      "name": "testMethod",
+      "value": "testcase1"
+    },
+    {
+      "name": "testClass",
+      "value": "Testcases"
+    },
+    {
+      "name": "suite",
+      "value": "Owner"
+    }
+  ],
+  "links": [],
+  "name": "testcase1",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "testcase1"
+  },
+  "stage": "finished",
+  "description": "This test checks that owner could be created succesfully. \n",
+  "steps": [
+    {
+      "name": "testcase1",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "Enters Firt Name value",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [
+            {
+              "name": "String",
+              "value": "Alex"
+            },
+            {
+              "name": "Boolean",
+              "value": "True"
+            }
+          ],
+          "start": 1640160973421,
+          "stop": 1640160973621
+        },
+        {
+          "name": "Enters Last Name value",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [
+            {
+              "name": "String",
+              "value": "petrov"
+            },
+            {
+              "name": "Boolean",
+              "value": "True"
+            }
+          ],
+          "start": 1640160973622,
+          "stop": 1640160973843
+        },
+        {
+          "name": "Enters Address value",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [
+            {
+              "name": "String",
+              "value": "perkov"
+            },
+            {
+              "name": "Boolean",
+              "value": "True"
+            }
+          ],
+          "start": 1640160973844,
+          "stop": 1640160974176
+        },
+        {
+          "name": "Enters City value",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [
+            {
+              "name": "String",
+              "value": "tarkov"
+            },
+            {
+              "name": "Boolean",
+              "value": "True"
+            }
+          ],
+          "start": 1640160974177,
+          "stop": 1640160974359
+        },
+        {
+          "name": "Enters Telephone Value",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [
+            {
+              "name": "String",
+              "value": "880083"
+            },
+            {
+              "name": "Boolean",
+              "value": "True"
+            }
+          ],
+          "start": 1640160974360,
+          "stop": 1640160974533
+        },
+        {
+          "name": "Creates new Owner record",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1640160974534,
+          "stop": 1640160974637
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "97bbf89cb6c34f868103e17eee523611-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1640160963780,
+      "stop": 1640160974735
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1640160963779,
+  "stop": 1640160974743
+}

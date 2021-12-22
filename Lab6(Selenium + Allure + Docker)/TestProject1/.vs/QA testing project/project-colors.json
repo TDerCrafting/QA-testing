@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "18bc4d64-79cb-4841-b9a1-0d5ba4e0feed": {
+      "ProjectGuid": "18bc4d64-79cb-4841-b9a1-0d5ba4e0feed",
+      "DisplayName": "QA testing project",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
