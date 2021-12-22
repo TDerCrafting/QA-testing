@@ -1,0 +1,85 @@
+{
+  "uuid": "3a138bd9-372a-4865-b466-4307ffff927a-tr-0-1002",
+  "historyId": "QA_testing_project.Testcases.testcase2",
+  "fullName": "QA_testing_project.Testcases.testcase2",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-5A86MOK"
+    },
+    {
+      "name": "package",
+      "value": "QA_testing_project"
+    },
+    {
+      "name": "testMethod",
+      "value": "testcase2"
+    },
+    {
+      "name": "testClass",
+      "value": "Testcases"
+    },
+    {
+      "name": "suite",
+      "value": "Veterinarian"
+    }
+  ],
+  "links": [],
+  "name": "testcase2",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "testcase2"
+  },
+  "stage": "finished",
+  "description": "This test checks that Veterinarian could be deleted succesfully. \n",
+  "steps": [
+    {
+      "name": "testcase2",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "Deletes first record at page Veterinarians",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1640160989960,
+          "stop": 1640161002728
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "0366c4d5d27a43f39f6ce1c2ab23de5d-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1640160981634,
+      "stop": 1640161002856
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1640160981634,
+  "stop": 1640161002862
+}
