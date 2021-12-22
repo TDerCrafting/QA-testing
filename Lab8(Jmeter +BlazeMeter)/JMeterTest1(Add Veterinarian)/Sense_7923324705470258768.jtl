@@ -1,0 +1,21 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,success,bytes,sentBytes,grpThreads,allThreads,Latency,Hostname,Connect
+1640178783170,168,http://20.50.171.10:9966/petclinic/api/specialties,200,,Thread Group 1-1,true,83403,335,1,1,87,DESKTOP-5A86MOK,41
+1640178783339,40,http://20.50.171.10:9966/petclinic/api/vets,201,,Thread Group 1-1,true,485,484,1,1,40,DESKTOP-5A86MOK,0
+1640178783380,678,http://20.50.171.10:9966/petclinic/api/vets,200,,Thread Group 1-1,true,1500153,328,1,1,448,DESKTOP-5A86MOK,0
+1640178783168,886,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,true,1584041,1147,1,1,575,DESKTOP-5A86MOK,41
+1640178784067,56,http://20.50.171.10:9966/petclinic/api/specialties,200,,Thread Group 1-1,true,83403,335,1,1,50,DESKTOP-5A86MOK,0
+1640178784124,41,http://20.50.171.10:9966/petclinic/api/vets,201,,Thread Group 1-1,true,485,484,1,1,41,DESKTOP-5A86MOK,0
+1640178784165,598,http://20.50.171.10:9966/petclinic/api/vets,200,,Thread Group 1-1,true,1500257,328,1,1,448,DESKTOP-5A86MOK,0
+1640178784066,695,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,true,1584145,1147,1,1,539,DESKTOP-5A86MOK,0
+1640178784771,52,http://20.50.171.10:9966/petclinic/api/specialties,200,,Thread Group 1-1,true,83403,335,1,1,46,DESKTOP-5A86MOK,0
+1640178784824,40,http://20.50.171.10:9966/petclinic/api/vets,201,,Thread Group 1-1,true,485,484,1,1,40,DESKTOP-5A86MOK,0
+1640178784865,679,http://20.50.171.10:9966/petclinic/api/vets,200,,Thread Group 1-1,true,1500361,328,1,1,442,DESKTOP-5A86MOK,0
+1640178784771,771,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,true,1584249,1147,1,1,528,DESKTOP-5A86MOK,0
+1640178785553,53,http://20.50.171.10:9966/petclinic/api/specialties,200,,Thread Group 1-1,true,83403,335,1,1,46,DESKTOP-5A86MOK,0
+1640178785607,40,http://20.50.171.10:9966/petclinic/api/vets,201,,Thread Group 1-1,true,485,484,1,1,40,DESKTOP-5A86MOK,0
+1640178785648,689,http://20.50.171.10:9966/petclinic/api/vets,200,,Thread Group 1-1,true,1500465,328,1,1,478,DESKTOP-5A86MOK,0
+1640178785553,782,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,true,1584353,1147,1,1,564,DESKTOP-5A86MOK,0
+1640178786345,52,http://20.50.171.10:9966/petclinic/api/specialties,200,,Thread Group 1-1,true,83403,335,1,1,46,DESKTOP-5A86MOK,0
+1640178786398,41,http://20.50.171.10:9966/petclinic/api/vets,201,,Thread Group 1-1,true,485,484,1,1,41,DESKTOP-5A86MOK,0
+1640178786439,645,http://20.50.171.10:9966/petclinic/api/vets,200,,Thread Group 1-1,true,1500569,328,1,1,448,DESKTOP-5A86MOK,0
+1640178786345,738,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,true,1584457,1147,1,1,535,DESKTOP-5A86MOK,0

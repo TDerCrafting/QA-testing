@@ -1,0 +1,41 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,success,bytes,sentBytes,grpThreads,allThreads,Latency,Hostname,Connect
+1640181532375,234,http://20.50.171.10:9966/petclinic/api/pettypes,200,,Thread Group 1-1,true,164394,261,3,3,89,DESKTOP-5A86MOK,40
+1640181532612,41,http://20.50.171.10:9966/petclinic/api/pettypes/2142,204,,Thread Group 1-1,true,236,352,3,3,0,DESKTOP-5A86MOK,0
+1640181532486,209,http://20.50.171.10:9966/petclinic/api/pettypes,200,,Thread Group 1-2,true,164394,261,4,4,88,DESKTOP-5A86MOK,40
+1640181532699,39,http://20.50.171.10:9966/petclinic/api/pettypes/2142,404,,Thread Group 1-2,false,255,352,4,4,39,DESKTOP-5A86MOK,0
+1640181532654,97,http://20.50.171.10:9966/petclinic/api/pettypes,200,,Thread Group 1-1,true,164369,261,4,4,55,DESKTOP-5A86MOK,0
+1640181532374,372,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,true,328999,874,4,4,144,DESKTOP-5A86MOK,40
+1640181532580,251,http://20.50.171.10:9966/petclinic/api/pettypes,200,,Thread Group 1-3,true,164369,261,4,4,105,DESKTOP-5A86MOK,45
+1640181532739,132,http://20.50.171.10:9966/petclinic/api/pettypes,200,,Thread Group 1-2,true,164369,261,4,4,51,DESKTOP-5A86MOK,0
+1640181532485,380,Test,,"Number of samples in transaction : 3, number of failing samples : 1",Thread Group 1-2,false,329018,874,4,4,178,DESKTOP-5A86MOK,40
+1640181532834,59,http://20.50.171.10:9966/petclinic/api/pettypes/2143,204,,Thread Group 1-3,true,236,352,4,4,0,DESKTOP-5A86MOK,0
+1640181532680,250,http://20.50.171.10:9966/petclinic/api/pettypes,200,,Thread Group 1-4,true,164369,261,4,4,86,DESKTOP-5A86MOK,39
+1640181532932,45,http://20.50.171.10:9966/petclinic/api/pettypes/2143,404,,Thread Group 1-4,false,255,352,4,4,45,DESKTOP-5A86MOK,0
+1640181532893,98,http://20.50.171.10:9966/petclinic/api/pettypes,200,,Thread Group 1-3,true,164343,261,5,5,54,DESKTOP-5A86MOK,0
+1640181532579,408,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-3,true,328948,874,5,5,159,DESKTOP-5A86MOK,45
+1640181532777,255,http://20.50.171.10:9966/petclinic/api/pettypes,200,,Thread Group 1-5,true,164369,261,4,4,122,DESKTOP-5A86MOK,54
+1640181532979,106,http://20.50.171.10:9966/petclinic/api/pettypes,200,,Thread Group 1-4,true,164343,261,5,5,57,DESKTOP-5A86MOK,0
+1640181532679,401,Test,,"Number of samples in transaction : 3, number of failing samples : 1",Thread Group 1-4,false,328967,874,5,5,188,DESKTOP-5A86MOK,39
+1640181533035,62,http://20.50.171.10:9966/petclinic/api/pettypes/2143,404,,Thread Group 1-5,false,255,352,4,4,62,DESKTOP-5A86MOK,0
+1640181532881,259,http://20.50.171.10:9966/petclinic/api/pettypes,200,,Thread Group 1-6,true,164343,261,4,4,110,DESKTOP-5A86MOK,51
+1640181533142,39,http://20.50.171.10:9966/petclinic/api/pettypes/2144,204,,Thread Group 1-6,true,236,352,5,5,0,DESKTOP-5A86MOK,0
+1640181533097,90,http://20.50.171.10:9966/petclinic/api/pettypes,200,,Thread Group 1-5,true,164343,261,5,5,49,DESKTOP-5A86MOK,0
+1640181532776,407,Test,,"Number of samples in transaction : 3, number of failing samples : 1",Thread Group 1-5,false,328967,874,5,5,233,DESKTOP-5A86MOK,54
+1640181532985,209,http://20.50.171.10:9966/petclinic/api/pettypes,200,,Thread Group 1-7,true,164343,261,4,4,87,DESKTOP-5A86MOK,39
+1640181533197,45,http://20.50.171.10:9966/petclinic/api/pettypes/2144,404,,Thread Group 1-7,false,255,352,4,4,45,DESKTOP-5A86MOK,0
+1640181533182,94,http://20.50.171.10:9966/petclinic/api/pettypes,200,,Thread Group 1-6,true,164309,261,4,4,49,DESKTOP-5A86MOK,0
+1640181532879,392,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-6,true,328888,874,4,4,159,DESKTOP-5A86MOK,51
+1640181533080,236,http://20.50.171.10:9966/petclinic/api/pettypes,200,,Thread Group 1-8,true,164343,261,4,4,111,DESKTOP-5A86MOK,48
+1640181533243,91,http://20.50.171.10:9966/petclinic/api/pettypes,200,,Thread Group 1-7,true,164309,261,4,4,48,DESKTOP-5A86MOK,0
+1640181532982,345,Test,,"Number of samples in transaction : 3, number of failing samples : 1",Thread Group 1-7,false,328907,874,4,4,180,DESKTOP-5A86MOK,39
+1640181533318,39,http://20.50.171.10:9966/petclinic/api/pettypes/2144,404,,Thread Group 1-8,false,255,352,3,3,39,DESKTOP-5A86MOK,0
+1640181533179,215,http://20.50.171.10:9966/petclinic/api/pettypes,200,,Thread Group 1-9,true,164309,261,3,3,90,DESKTOP-5A86MOK,39
+1640181533396,43,http://20.50.171.10:9966/petclinic/api/pettypes/2145,204,,Thread Group 1-9,true,236,352,3,3,0,DESKTOP-5A86MOK,0
+1640181533357,95,http://20.50.171.10:9966/petclinic/api/pettypes,200,,Thread Group 1-8,true,164309,261,3,3,49,DESKTOP-5A86MOK,0
+1640181533076,370,Test,,"Number of samples in transaction : 3, number of failing samples : 1",Thread Group 1-8,false,328907,874,3,3,199,DESKTOP-5A86MOK,48
+1640181533283,220,http://20.50.171.10:9966/petclinic/api/pettypes,200,,Thread Group 1-10,true,164309,261,2,2,89,DESKTOP-5A86MOK,40
+1640181533439,90,http://20.50.171.10:9966/petclinic/api/pettypes,200,,Thread Group 1-9,true,164284,261,2,2,48,DESKTOP-5A86MOK,0
+1640181533177,348,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-9,true,328829,874,2,2,138,DESKTOP-5A86MOK,39
+1640181533505,39,http://20.50.171.10:9966/petclinic/api/pettypes/2145,404,,Thread Group 1-10,false,255,352,1,1,39,DESKTOP-5A86MOK,0
+1640181533545,88,http://20.50.171.10:9966/petclinic/api/pettypes,200,,Thread Group 1-10,true,164284,261,1,1,47,DESKTOP-5A86MOK,0
+1640181533283,347,Test,,"Number of samples in transaction : 3, number of failing samples : 1",Thread Group 1-10,false,328848,874,1,1,175,DESKTOP-5A86MOK,40
